@@ -1,4 +1,3 @@
-<h1>Priv8 Server Side Exploit</h1>
 Eksekusi
 ===
 Upload ke server victim lalu tinggal eksekusi melalui url browser tekan ***Enter***
